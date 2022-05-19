@@ -10,7 +10,7 @@
   - [Questions](#Questions)
 
 # Description
-This week, we were tasked to create an application called `Deep Thoughts`. This is a full MERN stack application that was codused on the following tasks:
+This week, we were tasked to create an application called `Deep Thoughts`. This is a full MERN stack application that was focused on the following tasks:
 
 - Create an Apollo Server and apply it to an Express.js server as middleware.
 
